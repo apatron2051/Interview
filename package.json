@@ -1,0 +1,20 @@
+{
+  "name": "interviewgarments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --env-file=.env index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@iamtraction/google-translate": "github:iamtraction/google-translate",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jest": "^29.7.0",
+    "mongodb": "^6.10.0"
+  }
+}
