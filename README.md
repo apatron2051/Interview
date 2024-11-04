@@ -24,4 +24,7 @@ At this time other fields cannot be searched as implemented but doing so is very
 Network:
 Project implements CORS but for testing, but best on the same machine.
 
+Node Modules:
+I added the node modules into git to make it easier to test.
+
 
